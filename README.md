@@ -1,11 +1,14 @@
 <body>
-<img align="center" src="https://fontmeme.com/permalink/230427/5e71cf40a9baff6d049d1340fb08b848.png">
+<div align="center">
+<img src="https://fontmeme.com/permalink/230427/5e71cf40a9baff6d049d1340fb08b848.png">
+</div>
 <br><br>
-
-<center><img src="https://i.pinimg.com/originals/b9/85/42/b98542fd46391a887e670a3bbfbf7bb1.gif">
+<div align="center">
+<img src="https://i.pinimg.com/originals/b9/85/42/b98542fd46391a887e670a3bbfbf7bb1.gif">
 <br><br>
-
+<div align="center">
 <img align="center" src="https://fontmeme.com/permalink/230427/e2c005de035b8cde304f33eee2070ab6.png">
+
 <br><br>
 <img align="left" src="https://static.wikia.nocookie.net/acchikocchi/images/8/88/Tsumiki32.png/revision/latest?cb=20150629202333">
 
