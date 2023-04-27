@@ -46,4 +46,8 @@ Favourite Song: Jack Black - Peaches
 <br>
 </body>
 
+<img src="https://fontmeme.com/permalink/230427/c56317c9a6f5eb447cca299df9b009ea.png">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/961641613610872832)](https://discord.com/users/961641613610872832)
+
+![](https://dcbadge.vercel.app/api/shield/961641613610872832)
