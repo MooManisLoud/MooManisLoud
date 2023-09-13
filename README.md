@@ -17,7 +17,7 @@ About Me | Moo
 -------------------------------
 Username: MooManIsLoud
 WhoamI: Coder, Musician and Modder
-OS: Windows 11
+OS: Windows 10
 Languages: Lua, C++, Python and Haxe
 Pronouns: He/Him
 Language: Engilsh
