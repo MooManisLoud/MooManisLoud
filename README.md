@@ -23,7 +23,7 @@ Pronouns: He/Him
 Language: Engilsh
 Learning: C#
 Hobbies: Gaming, Watching Anime and Coding 
-Favourite Song: MTG - PISTA TOMA - SPED UP
+Favourite Song: The Cure - Friday I'm In Love
 -------------------------------
 ```
 <img align="center" src="https://fontmeme.com/permalink/230427/f854ea4b6d8a7576be63eb60d9abd6e9.png">
