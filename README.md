@@ -18,10 +18,9 @@ About Me | Moo
 Username: MooManIsLoud
 WhoamI: Coder, Musician and Modder
 OS: Windows 10
-Languages: Lua, C++, Python and Haxe
+Languages: Lua, C#, Python and Haxe
 Pronouns: He/Him
 Language: Engilsh
-Learning: C#
 Hobbies: Gaming, Watching Anime and Coding 
 Favourite Song: The Cure - Friday I'm In Love
 -------------------------------
