@@ -1,6 +1,6 @@
 
 <br><br>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/en/b/b5/Megumin_anime.png" alt="Megumin Anime" />
+<img align="left" src="https://github.com/user-attachments/assets/aa0f660b-cdd2-433c-a0f9-a300e44863cb"/>
 
 ```csharp
 About Me | Moo
