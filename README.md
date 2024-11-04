@@ -10,8 +10,8 @@
 💡 **Who am I?** Coder, Musician, and Modder  
 💻 **OS:** Windows 10  
 🖥️ **Languages:** C#, Python, JavaScript, Haxe  
-🌐 **Pronouns:** He/Him  
-🗣️ **Fluent in:** English  
+     🌐 **Pronouns:** He/Him  
+     🗣️ **Fluent in:** English  
 
 ---
 
@@ -21,8 +21,6 @@
 💻 Coding  
 
 **🎶 Favorite Song**  
-The Cure - _Friday I'm In Love_
+Lucy Bedroque - Pretty Peach
 
 ---
-
-Thanks for visiting! Feel free to explore my projects and connect with me here on GitHub! 😊
