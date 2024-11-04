@@ -1,6 +1,6 @@
 
 <br><br>
-<img align="left" src="https://github.com/user-attachments/assets/aa0f660b-cdd2-433c-a0f9-a300e44863cb"/>
+<img align="left" src="https://i.ibb.co/KwWSkN7/pngegg-2.png"/>
 
 ```csharp
 About Me | Moo
