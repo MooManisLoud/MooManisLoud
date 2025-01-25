@@ -8,7 +8,7 @@
 
 - **👤 Username:** MooManIsLoud  
 - **💡 Who am I?** Coder, Musician, and Modder  
-- **💻 OS:** Windows 11
+- **💻 OS:** Windows 10
 - **🖥️ Languages:** C#, Python, JavaScript, Haxe  
 
 - **🌐 Pronouns:** He/Him  
