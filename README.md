@@ -2,8 +2,8 @@
 
 <div>
 
-<p style="font-size: 30px; font-weight: bold;">
-  Hi, I'm Moo 👋
+<p>
+  <strong><font size="6">Hi, I'm Moo 👋</font></strong>
 </p>
 
 <h3>Backend &amp; Frontend Developer</h3>
