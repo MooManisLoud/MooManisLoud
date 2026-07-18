@@ -1,20 +1,15 @@
-<table>
-  <tr>
-    <td width="200">
-      <img width="180" src="https://i.ibb.co/206t1z0w/Shion-PS3-29.webp" alt="Shion" />
-    </td>
-    <td>
-      <h1>Hi, I'm Moo 👋</h1>
+<div style="display: flex; align-items: center;">
+  <img width="180" src="https://i.ibb.co/206t1z0w/Shion-PS3-29.webp" alt="Shion" />
 
-      <h3>Backend &amp; Frontend Developer</h3>
-
-      <p>
-        I enjoy building modern web applications, APIs, and tools with a focus on clean,
-        maintainable code.
-      </p>
-    </td>
-  </tr>
-</table>
+  <div>
+    <h1>Hi, I'm Moo 👋</h1>
+    <h3>Backend &amp; Frontend Developer</h3>
+    <p>
+      I enjoy building modern web applications, APIs, and tools with a focus on clean,
+      maintainable code.
+    </p>
+  </div>
+</div>
 
 <br />
 
