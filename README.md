@@ -2,18 +2,18 @@
 
 # Hi, I'm Moo 👋
 
-Backend & Frontend Developer
+### Backend & Frontend Developer
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,go,php,js,ts,html,css&perline=4" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,go,php,js,ts,html,css&perline=8" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio&perline=5" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,docker,postgres,mysql&perline=8" />
 </p>
 
 <br clear="left"/>
