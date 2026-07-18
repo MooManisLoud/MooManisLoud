@@ -1,5 +1,7 @@
 <img align="left" width="180" src="https://i.ibb.co/206t1z0w/Shion-PS3-29.webp" alt="Shion" />
 
+<div>
+
 <h1>Hi, I'm Moo 👋</h1>
 
 <h3>Backend &amp; Frontend Developer</h3>
@@ -8,8 +10,6 @@
   I enjoy building modern web applications, APIs, and tools with a focus on clean,
   maintainable code.
 </p>
-
-<br clear="left"/>
 
 <h3>Languages</h3>
 
@@ -28,3 +28,7 @@
     alt="Node.js, Git, GitHub, VS Code, Visual Studio, PostgreSQL, SQLite"
   />
 </p>
+
+</div>
+
+<br clear="left"/>
