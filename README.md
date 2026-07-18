@@ -2,7 +2,7 @@
 
 <div>
 
-<h1>Hi, I'm Moo 👋</h1>
+<h2>Hi, I'm Moo 👋</h2>
 
 <h3>Backend &amp; Frontend Developer</h3>
 
