@@ -3,7 +3,7 @@
 <div>
 
 <p>
-  <strong><font size="6">Hi, I'm Moo 👋</font></strong>
+  <strong><font size="100">Hi, I'm Moo 👋</font></strong>
 </p>
 
 <h3>Backend &amp; Frontend Developer</h3>
