@@ -2,11 +2,9 @@
 
 <div>
 
-<p>
-  <strong><font size="100">Hi, I'm Moo 👋</font></strong>
-</p>
+<h3>Hi, I'm Moo 👋</h3>
 
-<h3>Backend &amp; Frontend Developer</h3>
+<p>Backend &amp; Frontend Developer</p>
 
 <p>
   I enjoy building modern web applications, APIs, and tools with a focus on clean,
