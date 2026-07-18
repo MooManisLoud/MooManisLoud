@@ -13,7 +13,7 @@
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,postgres,sqllite&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,postgres,sqlite&perline=8" />
 </p>
 
 <br clear="left"/>
