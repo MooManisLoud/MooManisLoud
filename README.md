@@ -2,7 +2,9 @@
 
 <div>
 
-<h2>Hi, I'm Moo 👋</h2>
+<p style="font-size: 30px; font-weight: bold;">
+  Hi, I'm Moo 👋
+</p>
 
 <h3>Backend &amp; Frontend Developer</h3>
 
