@@ -1,23 +1,30 @@
-<table>
-<tr>
-<td width="190" valign="top">
-<img src="https://i.ibb.co/206t1z0w/Shion-PS3-29.webp" width="180">
-</td>
+<img align="left" width="180" src="https://i.ibb.co/206t1z0w/Shion-PS3-29.webp" alt="Shion" />
 
-<td valign="top">
+<h1>Hi, I'm Moo 👋</h1>
 
-# Hi, I'm Moo 👋
+<h3>Backend &amp; Frontend Developer</h3>
 
-**Backend & Frontend Developer**
+<p>
+  I enjoy building modern web applications, APIs, and tools with a focus on clean,
+  maintainable code.
+</p>
 
-I enjoy building modern web applications, APIs, and tools.
+<br clear="left"/>
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cs,cpp,go,php,js,ts,html,css&perline=8">
+<h3>Languages</h3>
 
-### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,postgres,sqlite&perline=8">
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,cpp,go,php,js,ts,html,css&perline=8"
+    alt="C#, C++, Go, PHP, JavaScript, TypeScript, HTML, CSS"
+  />
+</p>
 
-</td>
-</tr>
-</table>
+<h3>Tools</h3>
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,visualstudio,postgres,sqlite&perline=8"
+    alt="Node.js, Git, GitHub, VS Code, Visual Studio, PostgreSQL, SQLite"
+  />
+</p>
